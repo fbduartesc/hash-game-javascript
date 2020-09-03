@@ -5,9 +5,6 @@
  :rocket: *Hash game: this project will build a game using javascript, HTML5 e CSS3*
   </div>
 
-# :video_game: Game demo
-Demo: [Hash game](https://fbduartesc.gitlab.io/hash-game-javascript)
-
 # :pushpin: Table of contents
 
 - [Technologies](#computer-technologies)
@@ -30,7 +27,7 @@ This project was made using the following technologies:
 
 ```bash
 # Clone repository into your machine
-$ git clone https://gitlab.com/fbduartesc/hash-game-javascript.git
+$ git clone https://github.com/fbduartesc/hash-game-javascript.git
 ```
 
 ### 💻 Running project on a web browser
@@ -44,5 +41,5 @@ $ index.html
 
 Released in 2020.
 
-Made with passion by [Fabio Duarte de Souza](https://gitlab.com/fbduartesc) 🚀.
-This project is under the [MIT license](https://gitlab.com/fbduartesc/hash-game-javascript/blob/master/LICENSE).
+Made with passion by [Fabio Duarte de Souza](https://github.com/fbduartesc) 🚀.
+This project is under the [MIT license](https://github.com/fbduartesc/hash-game-javascript/blob/master/LICENSE).
